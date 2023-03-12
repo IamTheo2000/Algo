@@ -27,3 +27,5 @@ This repository contains my solutions for the assignments of the algorithms cour
 * NP-completeness
 * Probabilistic algorithms
 * Approximation algorithms
+
+Each written assignment contain two files, the assignment int greek and my implementation. The programming excercises contain the assignment itself, the two .cpp files containing my implementation and the input/ouptut files. There is also a test.py script to check if the implementation passes the test cases given as input/output.
